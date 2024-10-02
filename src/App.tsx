@@ -104,13 +104,13 @@ function Projects() {
           </li>
           <li>
             <a
-              href="https://github.com/DanielUAO/landing-page"
+              href="https://github.com/JuanitoElCartero/contador"
               target="_blank"
               rel="noopener noreferrer"
             >
               Proyecto 3
             </a>{' '}
-            - Breve descripción del proyecto 3.
+            - Contador
           </li>
           {/* Agrega más proyectos según sea necesario */}
         </ul>
